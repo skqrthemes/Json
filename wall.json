@@ -3,6 +3,46 @@
 "wallpapers":
  
 	[
+
+		{
+
+			"author": "Freepik",
+
+			"url": "https://raw.githubusercontent.com/skqrthemes/Json/master/MatrianaWalls/wall24.png",
+
+			"name": "Wall24"
+
+		},
+
+		{
+
+			"author": "Freepik",
+
+			"url": "https://raw.githubusercontent.com/skqrthemes/Json/master/MatrianaWalls/wall23.png",
+
+			"name": "Wall23"
+
+		},
+
+		{
+
+			"author": "Freepik",
+
+			"url": "https://raw.githubusercontent.com/skqrthemes/Json/master/MatrianaWalls/wall22.png",
+
+			"name": "Wall22"
+
+		},
+
+		{
+
+			"author": "Freepik",
+
+			"url": "https://raw.githubusercontent.com/skqrthemes/Json/master/MatrianaWalls/wall21.png",
+
+			"name": "Wall21"
+
+		},
  
 		{
 
@@ -182,7 +222,7 @@
 
 			"name": "Wall18"
 
-		},
+		}
 
 		 
 	]
