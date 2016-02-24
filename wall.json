@@ -10,7 +10,7 @@
 
 			"url": "https://raw.githubusercontent.com/skqrthemes/Json/master/MatrianaWalls/wall22.png",
 
-			"name": "Wall22"
+			"name": "Wall1"
 
 		},
 
@@ -20,7 +20,7 @@
 
 			"url": "https://raw.githubusercontent.com/skqrthemes/Json/master/MatrianaWalls/wall21.png",
 
-			"name": "Wall21"
+			"name": "Wall2"
 
 		},
 
@@ -30,7 +30,7 @@
 
 			"url": "https://raw.githubusercontent.com/skqrthemes/Json/master/MatrianaWalls/wall20.png",
 
-			"name": "Wall20"
+			"name": "Wall3"
 
 		},
 
@@ -40,7 +40,7 @@
 
 			"url": "https://raw.githubusercontent.com/skqrthemes/Json/master/MatrianaWalls/wall19.png",
 
-			"name": "Wall19"
+			"name": "Wall4"
 
 		},
  
@@ -50,7 +50,7 @@
 
 			"url": "https://raw.githubusercontent.com/skqrthemes/Json/master/MatrianaWalls/wall1.png",
 
-			"name": "Wall1"
+			"name": "Wall5"
 
 		},
 
@@ -60,7 +60,7 @@
 
 			"url": "https://raw.githubusercontent.com/skqrthemes/Json/master/MatrianaWalls/wall2.png",
 
-			"name": "Wall2"
+			"name": "Wall6"
 
 		},
 
@@ -70,7 +70,7 @@
 
 			"url": "https://raw.githubusercontent.com/skqrthemes/Json/master/MatrianaWalls/wall3.png",
 
-			"name": "Wall3"
+			"name": "Wall7"
 
 		},
 
@@ -80,7 +80,7 @@
 
 			"url": "https://raw.githubusercontent.com/skqrthemes/Json/master/MatrianaWalls/wall4.png",
 
-			"name": "Wall4"
+			"name": "Wall8"
 
 		},
 
@@ -90,7 +90,7 @@
 
 			"url": "https://raw.githubusercontent.com/skqrthemes/Json/master/MatrianaWalls/wall5.png",
 
-			"name": "Wall5"
+			"name": "Wall9"
 
 		},
 		
@@ -100,7 +100,7 @@
 
 			"url": "https://raw.githubusercontent.com/skqrthemes/Json/master/MatrianaWalls/wall6.png",
 
-			"name": "Wall6"
+			"name": "Wall10"
 
 		},
 		
@@ -110,7 +110,7 @@
 
 			"url": "https://raw.githubusercontent.com/skqrthemes/Json/master/MatrianaWalls/wall7.png",
 
-			"name": "Wall7"
+			"name": "Wall11"
 
 		},
 		
@@ -120,7 +120,7 @@
 
 			"url": "https://raw.githubusercontent.com/skqrthemes/Json/master/MatrianaWalls/wall8.png",
 
-			"name": "Wall8"
+			"name": "Wall12"
 
 		},
 		
@@ -130,7 +130,7 @@
 
 			"url": "https://raw.githubusercontent.com/skqrthemes/Json/master/MatrianaWalls/wall9.png",
 
-			"name": "Wall9"
+			"name": "Wall13"
 
 		},
 		
@@ -140,7 +140,7 @@
 
 			"url": "https://raw.githubusercontent.com/skqrthemes/Json/master/MatrianaWalls/wall10.png",
 
-			"name": "Wall10"
+			"name": "Wall14"
 
 		},
 		
@@ -150,7 +150,7 @@
 
 			"url": "https://raw.githubusercontent.com/skqrthemes/Json/master/MatrianaWalls/wall11.png",
 
-			"name": "Wall11"
+			"name": "Wall15"
 
 		},
 		
@@ -160,7 +160,7 @@
 
 			"url": "https://raw.githubusercontent.com/skqrthemes/Json/master/MatrianaWalls/wall12.png",
 
-			"name": "Wall12"
+			"name": "Wall16"
 
 		},
 		
@@ -170,59 +170,10 @@
 
 			"url": "https://raw.githubusercontent.com/skqrthemes/Json/master/MatrianaWalls/wall13.png",
 
-			"name": "Wall13"
-
-		},
-		
-		{
-
-			"author": "Freepik",
-
-			"url": "https://raw.githubusercontent.com/skqrthemes/Json/master/MatrianaWalls/wall14.png",
-
-			"name": "Wall14"
-
-		},
-
-		{
-
-			"author": "Freepik",
-
-			"url": "https://raw.githubusercontent.com/skqrthemes/Json/master/MatrianaWalls/wall15.png",
-
-			"name": "Wall15"
-
-		},
-
-		{
-
-			"author": "Freepik",
-
-			"url": "https://raw.githubusercontent.com/skqrthemes/Json/master/MatrianaWalls/wall16.png",
-
-			"name": "Wall16"
-
-		},
-
-		{
-
-			"author": "Freepik",
-
-			"url": "https://raw.githubusercontent.com/skqrthemes/Json/master/MatrianaWalls/wall17.png",
-
 			"name": "Wall17"
 
-		},
-
-		{
-
-			"author": "Freepik",
-
-			"url": "https://raw.githubusercontent.com/skqrthemes/Json/master/MatrianaWalls/wall18.png",
-
-			"name": "Wall18"
-
 		}
+		
 
 		 
 	]
